@@ -19,19 +19,19 @@ cd informix-mcp
 
 2. Install dependencies:
 ```bash
-pnpm install
+npm install
 ```
 
 ## Usage
 
 ### Development
 ```bash
-pnpm run dev
+npm run dev
 ```
 
 ### Production
 ```bash
-pnpm run start
+npm run start
 ```
 
 ## Available Tools

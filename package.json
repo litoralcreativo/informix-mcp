@@ -13,7 +13,6 @@
   "keywords": ["mcp", "informix", "database", "server"],
   "author": "",
   "license": "ISC",
-  "packageManager": "pnpm@10.12.3",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.13.1",
     "zod": "^3.25.67"
