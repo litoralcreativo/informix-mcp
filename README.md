@@ -2,6 +2,10 @@
 
 An MCP (Model Context Protocol) server for interacting with Informix databases.
 
+<a href="https://glama.ai/mcp/servers/@litoralcreativo/informix-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@litoralcreativo/informix-mcp/badge" alt="Informix Server MCP server" />
+</a>
+
 ## Features
 
 - 🔍 **Database exploration**: Lists all available databases
